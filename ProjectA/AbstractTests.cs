@@ -1,4 +1,4 @@
-namespace Abstract
+namespace ProjectA
 {
 	public abstract class AbstractTests
 	{
