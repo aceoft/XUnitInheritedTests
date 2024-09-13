@@ -1,6 +1,6 @@
-using ProjectA;
+using ProjectA.V3;
 
-namespace ProjectB
+namespace ProjectB.V3
 {
 	public class DerivedTestsInDifferentProject : AbstractTests
 	{
