@@ -5,7 +5,7 @@ namespace DerivedTests
 	public class DerivedTests : AbstractTests
 	{
 		[Fact]
-		public void DirectTestA()
+		public void DirectTest()
 		{
 			Assert.True(true);
 		}

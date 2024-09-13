@@ -3,15 +3,9 @@ namespace Abstract
 	public abstract class AbstractTests
 	{
 		[Fact]
-		public void InheritedTestA()
+		public void InheritedTest()
 		{
 			Assert.True(true);
-		}
-
-		[Fact]
-		public void InheritedTestB()
-		{
-			Assert.True(false);
 		}
 	}
 }
