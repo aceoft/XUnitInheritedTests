@@ -1,6 +1,6 @@
 using Abstract;
 
-namespace DerivedTests
+namespace Derived
 {
 	public class DerivedTests : AbstractTests
 	{
