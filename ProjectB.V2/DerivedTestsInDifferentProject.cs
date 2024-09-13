@@ -5,7 +5,7 @@ namespace ProjectB.V2
 	public class DerivedTestsInDifferentProject : AbstractTests
 	{
 		[Fact]
-		public void DirectTestInDifferentProject()
+		public void DirectTest()
 		{
 			Assert.True(true);
 		}

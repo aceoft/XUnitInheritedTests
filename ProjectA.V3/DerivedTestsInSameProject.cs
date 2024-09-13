@@ -3,7 +3,7 @@
 	public class DerivedTestsInSameProject : AbstractTests
 	{
 		[Fact]
-		public void DirectTestInSameProject()
+		public void DirectTest()
 		{
 			Assert.True(true);
 		}
