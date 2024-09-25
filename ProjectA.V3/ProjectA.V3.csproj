@@ -10,7 +10,7 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
-		<PackageReference Include="xunit.runner.visualstudio" Version="3.0.0-pre.30">
+		<PackageReference Include="xunit.runner.visualstudio" Version="3.0.0-pre.37">
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 			<PrivateAssets>all</PrivateAssets>
 		</PackageReference>
@@ -18,7 +18,7 @@
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 			<PrivateAssets>all</PrivateAssets>
 		</PackageReference>
-		<PackageReference Include="xunit.v3" Version="0.3.0-pre.37" />
+		<PackageReference Include="xunit.v3" Version="0.4.0-pre.20" />
 	</ItemGroup>
 
 </Project>
